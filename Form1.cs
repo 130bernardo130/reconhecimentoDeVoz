@@ -20,9 +20,10 @@ namespace reconhecimentoDeVoz
 
         private void mudaTexto(System.Windows.Forms.Button button,String texto)
         {
-            Controls.Remove(button);
+            
             button.Text = texto;
-            Controls.Add(button);
+
+            this.Refresh();
         }
         private void button1_Click(object sender, EventArgs e)
         {
