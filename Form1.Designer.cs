@@ -53,9 +53,13 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.ClientSize = new System.Drawing.Size(231, 156);
             this.Controls.Add(this.texto);
             this.Controls.Add(this.Ouvir);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(247, 194);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
