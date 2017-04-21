@@ -1,0 +1,9 @@
+Z:\CsharpiProjetos\reconhecimentoDeVoz\reconhecimentoDeVoz\bin\Debug\reconhecimentoDeVoz.exe.config
+Z:\CsharpiProjetos\reconhecimentoDeVoz\reconhecimentoDeVoz\bin\Debug\reconhecimentoDeVoz.exe
+Z:\CsharpiProjetos\reconhecimentoDeVoz\reconhecimentoDeVoz\bin\Debug\reconhecimentoDeVoz.pdb
+Z:\CsharpiProjetos\reconhecimentoDeVoz\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.csprojResolveAssemblyReference.cache
+Z:\CsharpiProjetos\reconhecimentoDeVoz\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.Form1.resources
+Z:\CsharpiProjetos\reconhecimentoDeVoz\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.Properties.Resources.resources
+Z:\CsharpiProjetos\reconhecimentoDeVoz\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.csproj.GenerateResource.Cache
+Z:\CsharpiProjetos\reconhecimentoDeVoz\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.exe
+Z:\CsharpiProjetos\reconhecimentoDeVoz\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.pdb
