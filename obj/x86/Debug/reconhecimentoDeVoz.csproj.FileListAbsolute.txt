@@ -1,0 +1,8 @@
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\bin\x86\Debug\reconhecimentoDeVoz.exe.config
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\bin\x86\Debug\reconhecimentoDeVoz.exe
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\bin\x86\Debug\reconhecimentoDeVoz.pdb
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\x86\Debug\reconhecimentoDeVoz.Form1.resources
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\x86\Debug\reconhecimentoDeVoz.Properties.Resources.resources
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\x86\Debug\reconhecimentoDeVoz.csproj.GenerateResource.Cache
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\x86\Debug\reconhecimentoDeVoz.exe
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\x86\Debug\reconhecimentoDeVoz.pdb

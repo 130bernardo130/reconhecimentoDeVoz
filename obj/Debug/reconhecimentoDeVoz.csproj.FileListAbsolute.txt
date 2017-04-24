@@ -16,3 +16,12 @@ Z:\CsharpiProjetos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.csprojResol
 Z:\CsharpiProjetos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.Form1.resources
 Z:\CsharpiProjetos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.Properties.Resources.resources
 Z:\CsharpiProjetos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.csproj.GenerateResource.Cache
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\bin\Debug\reconhecimentoDeVoz.exe.config
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\bin\Debug\reconhecimentoDeVoz.exe
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\bin\Debug\reconhecimentoDeVoz.pdb
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.csprojResolveAssemblyReference.cache
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.Form1.resources
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.Properties.Resources.resources
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.csproj.GenerateResource.Cache
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.exe
+C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.pdb
