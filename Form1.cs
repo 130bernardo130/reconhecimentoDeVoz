@@ -38,7 +38,7 @@ namespace reconhecimentoDeVoz {
         }
 
         private void texto_TextChanged(object sender, EventArgs e) {
-
+            this.Refresh();
         }
     }
 }

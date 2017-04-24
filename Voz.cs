@@ -10,13 +10,22 @@ namespace reconhecimentoDeVoz {
 
     public class Voz {
         private System.Windows.Forms.TextBox texto;
-        SpeechRecognitionEngine rec = new SpeechRecognitionEngine();//new System.Globalization.CultureInfo("pt-BR")
+        SpeechRecognitionEngine rec = null;
 
         public Voz(System.Windows.Forms.TextBox texto) {
             this.texto = texto;
-
+            try
+            {
+                rec = new SpeechRecognitionEngine(new System.Globalization.CultureInfo("pt-BR"));
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("falha na definição de cultura");
+                rec = new SpeechRecognitionEngine();
+            }
+            
             Choices comandos = new Choices();
-            String[] strComandos = new String[] { "um", "dois", "tres" };
+            String[] strComandos = new String[] { "pipa", "dois", "tres" };
             comandos.Add(strComandos);
             GrammarBuilder gCria = new GrammarBuilder();
             gCria.Append(comandos);
@@ -30,6 +39,7 @@ namespace reconhecimentoDeVoz {
 
         private void Rec_SpeechRecognized(Object bj, SpeechRecognizedEventArgs e) {
             this.texto.Text = e.Result.Text;
+            Console.WriteLine(e.Result.Text);
         }
 
         public void ouvir() {
