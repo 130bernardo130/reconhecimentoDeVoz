@@ -25,3 +25,12 @@ C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.P
 C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.csproj.GenerateResource.Cache
 C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.exe
 C:\Users\Thomaz\Source\Repos\reconhecimentoDeVoz\obj\Debug\reconhecimentoDeVoz.pdb
+C:\Users\Aluno\Desktop\reconhecimentoDeVoz-master\bin\Debug\reconhecimentoDeVoz.exe.config
+C:\Users\Aluno\Desktop\reconhecimentoDeVoz-master\obj\Debug\reconhecimentoDeVoz.exe
+C:\Users\Aluno\Desktop\reconhecimentoDeVoz-master\obj\Debug\reconhecimentoDeVoz.pdb
+C:\Users\Aluno\Desktop\reconhecimentoDeVoz-master\bin\Debug\reconhecimentoDeVoz.exe
+C:\Users\Aluno\Desktop\reconhecimentoDeVoz-master\bin\Debug\reconhecimentoDeVoz.pdb
+C:\Users\Aluno\Desktop\reconhecimentoDeVoz-master\obj\Debug\reconhecimentoDeVoz.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\reconhecimentoDeVoz-master\obj\Debug\reconhecimentoDeVoz.Form1.resources
+C:\Users\Aluno\Desktop\reconhecimentoDeVoz-master\obj\Debug\reconhecimentoDeVoz.Properties.Resources.resources
+C:\Users\Aluno\Desktop\reconhecimentoDeVoz-master\obj\Debug\reconhecimentoDeVoz.csproj.GenerateResource.Cache

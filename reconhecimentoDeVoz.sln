@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reconhecimentoDeVoz", "reconhecimentoDeVoz.csproj", "{D34A3D64-2EED-49A3-A363-00CFDD6132C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteReconhecimentoDeVoz", "..\TesteReconhecimentoDeVoz\TesteReconhecimentoDeVoz.csproj", "{E42ECDD3-48FF-4DF5-8507-267076C12BA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{D34A3D64-2EED-49A3-A363-00CFDD6132C8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D34A3D64-2EED-49A3-A363-00CFDD6132C8}.Release|x86.ActiveCfg = Release|x86
 		{D34A3D64-2EED-49A3-A363-00CFDD6132C8}.Release|x86.Build.0 = Release|x86
+		{E42ECDD3-48FF-4DF5-8507-267076C12BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42ECDD3-48FF-4DF5-8507-267076C12BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42ECDD3-48FF-4DF5-8507-267076C12BA8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E42ECDD3-48FF-4DF5-8507-267076C12BA8}.Debug|x86.Build.0 = Debug|Any CPU
+		{E42ECDD3-48FF-4DF5-8507-267076C12BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42ECDD3-48FF-4DF5-8507-267076C12BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42ECDD3-48FF-4DF5-8507-267076C12BA8}.Release|x86.ActiveCfg = Release|Any CPU
+		{E42ECDD3-48FF-4DF5-8507-267076C12BA8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
